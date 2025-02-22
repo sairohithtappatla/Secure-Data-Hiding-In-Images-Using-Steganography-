@@ -27,7 +27,11 @@ Welcome to the **Image Encryption and Decryption Tool**! This is a simple yet **
 
 ## 📸 **Screenshots**
 
-![Main Screen](images/main_screen.png)  
+(![image](https://github.com/user-attachments/assets/c0fbcc3e-1a9b-4016-b958-f4c6ff752f75))  
+![image](https://github.com/user-attachments/assets/bdec4a16-411c-43a5-851c-0754380f1a00)
+![image](https://github.com/user-attachments/assets/28fc1633-45f7-44a8-9d3a-f089bb8e7ca1)
+![image](https://github.com/user-attachments/assets/23b8fbd6-c78d-4630-b7be-bc6e747779a2)
+
 _The main interface for encryption and decryption._
 
 ---
